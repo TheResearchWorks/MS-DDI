@@ -6,15 +6,15 @@ Accurate prediction of drug–drug interaction (DDI) is essential for preventing
 ![Overview of MS-DDI](Overview.png)
 
 ## Requirements
-python==3.8
-tensorflow==2.4.1
-pandas==1.5.2
-matplotlib==3.6.2
-rdkit-pypi==2022.9.3
-networkx==2.8.8
-scipy>=1.5.0
-scikit-learn==1.2.0
-ipython==8.7.0
+python==3.8 \
+tensorflow==2.4.1 \
+pandas==1.5.2 \
+matplotlib==3.6.2 \
+rdkit-pypi==2022.9.3 \
+networkx==2.8.8 \
+scipy>=1.5.0 \
+scikit-learn==1.2.0 \
+ipython==8.7.0 \
 
 ## Data
 Data is available in the folder [data](data)
@@ -23,10 +23,10 @@ Data is available in the folder [data](data)
 For DrugBank and Twosides, the preprocessing procedure is the same as in [SRR-DDI](https://github.com/NiuDongjiang/SRR-DDI).
 
 ## Train
-```python -u train.py```
+```python -u train.py``` \
 The training record can be found in save_weights/ckpt
 ## Evaluate
-```python -u evaluate.py```
+```python -u evaluate.py``` \
 Results will be printed
 
 ## Note

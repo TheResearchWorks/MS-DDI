@@ -28,12 +28,14 @@ Data is available in our Baidu Cloud Disk [https://pan.baidu.com/s/1lxg3TLpLxM91
 For DrugBank and Twosides, the preprocessing procedure is the same as in [SRR-DDI](https://github.com/NiuDongjiang/SRR-DDI).
 
 ## Train
-```python -u train.py
+```
+python -u train.py
 ``` 
 The training record can be found in save_weights/ckpt
 
 ## Evaluate
-```python -u evaluate.py
+```
+python -u evaluate.py
 ```
 Results will be printed
 

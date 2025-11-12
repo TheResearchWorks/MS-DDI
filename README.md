@@ -17,7 +17,7 @@ scikit-learn==1.2.0 \
 ipython==8.7.0  
 
 ## Data
-Data is available in the folder [data](data)
+Data is available in our Baidu Cloud Disk [https://pan.baidu.com/s/1lxg3TLpLxM91CP26XTcbhQ code:jtu9](https://pan.baidu.com/s/1lxg3TLpLxM91CP26XTcbhQ)
 
 ## Data processing
 For DrugBank and Twosides, the preprocessing procedure is the same as in [SRR-DDI](https://github.com/NiuDongjiang/SRR-DDI).

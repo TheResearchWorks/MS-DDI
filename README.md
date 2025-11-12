@@ -14,7 +14,7 @@ rdkit-pypi==2022.9.3 \
 networkx==2.8.8 \
 scipy>=1.5.0 \
 scikit-learn==1.2.0 \
-ipython==8.7.0 \
+ipython==8.7.0  
 
 ## Data
 Data is available in the folder [data](data)
@@ -25,10 +25,11 @@ For DrugBank and Twosides, the preprocessing procedure is the same as in [SRR-DD
 ## Train
 ```python -u train.py``` \
 The training record can be found in save_weights/ckpt
+
 ## Evaluate
 ```python -u evaluate.py``` \
 Results will be printed
 
 ## Note
-If you want to modify the parameters, please edit them directly in the code.
+If you want to modify the parameters, please edit them directly in the code. \
 If my work can inspire you, I will be glad. Thank you for visiting.

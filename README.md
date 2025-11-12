@@ -6,6 +6,11 @@ Accurate prediction of drug–drug interaction (DDI) is essential for preventing
 ![Overview of MS-DDI](Overview.png)
 
 ## Requirements
+
+```bash
+pip install -r requirements.txt
+```
+
 python==3.8 \
 tensorflow==2.4.1 \
 pandas==1.5.2 \
